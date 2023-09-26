@@ -37,7 +37,7 @@ import Main from "./components/Main"
 function App() {
 
   return (
-    <div className="flex flex-col w-[1500px] h-[1379px] font-manrope">
+    <div className="flex flex-col w-[360px] sm:w-[1500px] h-[1225px] sm:h-[1379px] font-manrope">
       <Header />
       <Main />
       <Footer />
